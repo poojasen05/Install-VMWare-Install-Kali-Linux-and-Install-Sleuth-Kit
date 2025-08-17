@@ -57,6 +57,9 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 **SLEUTH-KIT:**
 
+<img width="962" height="643" alt="image" src="https://github.com/user-attachments/assets/bb388221-1474-4b1c-9761-66819543612f" />
+
+
 
 
 ## RESULT:
